@@ -5,4 +5,6 @@ The repository includes both the PDF of the dissertation, as well as the softwar
 
 It is my intention to recreate the software using a more accessible language - until then, it requires Matlab to run.
 
-Note: The Matlab runtime installer (MCRInstaller.exe) is not included. You can download it from (here)[https://uk.mathworks.com/products/compiler/matlab-runtime.html] and place it in the `SkinSim` directory with the other `.exe` files.
+Note: The Matlab runtime installer (MCRInstaller.exe) is not included. You can download it from [here](https://uk.mathworks.com/products/compiler/matlab-runtime.html) and place it in the `SkinSim` directory with the other `.exe` files.
+
+
